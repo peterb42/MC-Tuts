@@ -1,0 +1,7 @@
+name: Tutorial
+version: 1.0
+main: de.pb42.tutorial.main.Main
+
+commands:
+   heal:
+      description: Dieses Kommando heilt dich!
